@@ -1,0 +1,20 @@
+[BEGINVDF]
+Comment=Nyras Prolog Demake by Nyras Enjoyers - Romanian translation by Mr. Bubbles, Cyrus_Reznik, coolblade23 and catalinstoian
+BaseDir=..\..\..\
+VDFName=..\..\..\Data\ModVDF\NyrasPrologueDemake_LocalizationRO.mod
+
+[FILES]
+; Modular resources
+_work\Data\Scripts\_compiled\GOTHIC.DAT
+_work\Data\Scripts\_compiled\MENU.DAT
+_work\Data\Scripts\Content\Cutscene\OU.BIN
+
+[EXCLUDE]
+.empty -r
+*.vm
+*.vdf
+*.bat
+*.cfg
+.*
+
+[ENDVDF]

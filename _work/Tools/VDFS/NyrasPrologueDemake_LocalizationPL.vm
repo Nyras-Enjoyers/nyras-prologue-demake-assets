@@ -1,0 +1,23 @@
+[BEGINVDF]
+Comment=Nyras Prolog Demake by Nyras Enjoyers - Polish translation
+BaseDir=..\..\..\
+VDFName=..\..\..\Data\ModVDF\A_NyrasPrologueDemake_LocalizationPL.mod
+
+[FILES]
+; Modular resources
+_work\Data\Scripts\_compiled\GOTHIC.DAT
+_work\Data\Scripts\_compiled\MENU.DAT
+_work\Data\Scripts\Content\Cutscene\OU.BIN
+_work\Data\Textures\_compiled\OW_TRAITOR_NM-C.TEX
+_work\Data\Textures\_compiled\OW_COLONY_NM-C.TEX
+_work\Data\Textures\_compiled\MENU_GOTHICNYRASPROLOGUE2-C.TEX
+
+[EXCLUDE]
+.empty -r
+*.vm
+*.vdf
+*.bat
+*.cfg
+.*
+
+[ENDVDF]

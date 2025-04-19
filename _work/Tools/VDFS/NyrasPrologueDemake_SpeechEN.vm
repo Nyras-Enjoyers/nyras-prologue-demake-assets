@@ -1,0 +1,19 @@
+[BEGINVDF]
+Comment=Nyras Prolog Demake by Nyras Enjoyers - English speech
+BaseDir=..\..\..\
+VDFName=..\..\..\Data\ModVDF\NyrasPrologueDemake_SpeechEN.mod
+
+[FILES]
+; Modular resources
+_work\Data\Sound\Speech\*.WAV -r
+_work\Data\Sound\SFX\Extro_Voices\*.WAV
+
+[EXCLUDE]
+.empty -r
+*.vm
+*.vdf
+*.bat
+*.cfg
+.*
+
+[ENDVDF]

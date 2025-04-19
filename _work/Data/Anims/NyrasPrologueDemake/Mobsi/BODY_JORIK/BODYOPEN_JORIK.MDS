@@ -1,0 +1,4 @@
+Model ("BODYOPEN_JORIK")
+{
+	meshAndTree ("BODYOPEN_JORIK.ASC")
+}

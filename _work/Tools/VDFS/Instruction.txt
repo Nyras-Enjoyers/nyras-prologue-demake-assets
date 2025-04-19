@@ -1,0 +1,10 @@
+- NyrasPrologueDemake_LocalizationPL.vm:
+
+Remove from the textures names `_PL` and pack with 2039 year.:
+-- OW_COLONY_NM_PL-C.TEX
+-- OW_TRAITOR_NM_PL-C.TEX
+-- MENU_GOTHICNYRASPROLOGUE2_PL-C.TEX
+
+- NyrasPrologueDemake_Speech*.vm:
+
+Replace SFXs from `Extro_Voices`

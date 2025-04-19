@@ -1,0 +1,44 @@
+[BEGINVDF]
+Comment=Nyras Prolog Demake
+BaseDir=..\..\..\
+VDFName=..\..\..\Data\ModVDF\NyrasPrologueDemake.mod
+
+[FILES]
+; Modular resources
+_work\Data\Anims\*.MDS -r
+_work\Data\Anims\_compiled\*.MAN
+_work\Data\Anims\_compiled\*.MDH
+_work\Data\Anims\_compiled\*.MDL
+_work\Data\Anims\_compiled\*.MDM
+_work\Data\Anims\_compiled\*.MMB
+_work\Data\Anims\_compiled\*.MSB
+_work\Data\Meshes\_compiled\*.MRM
+_work\Data\Meshes\_compiled\*.MSH
+_work\Data\Scripts\_compiled\CAMERA.DAT
+_work\Data\Scripts\_compiled\FIGHT.DAT
+_work\Data\Scripts\_compiled\MUSIC.DAT
+_work\Data\Scripts\_compiled\PARTICLEFX.DAT
+_work\Data\Scripts\_compiled\SFX.DAT
+_work\Data\Scripts\_compiled\VISUALFX.DAT
+_work\Data\Sound\SFX\*.WAV -r
+_work\Data\Textures\_compiled\*-C.TEX
+_work\Data\Worlds\*.ZEN
+
+[EXCLUDE]
+.empty -r
+*.vm
+*.vdf
+*.bat
+*.cfg
+.*
+_work\Data\Sound\SFX\Extro_Voices\*.WAV
+_work\Data\Sound\SFX\Extro_Voices_PL\*.WAV
+_work\Data\Sound\SFX\Extro_Voices_DE\*.WAV
+_work\Data\Sound\SFX\Extro_Voices_EN\*.WAV
+_work\Data\Sound\SFX\Extro_Voices_RU\*.WAV
+
+[INCLUDE]
+README.md
+SPLASH.BMP
+
+[ENDVDF]

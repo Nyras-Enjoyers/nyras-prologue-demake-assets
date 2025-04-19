@@ -1,0 +1,38 @@
+Model ("HuS")
+{
+	meshAndTree ("Hum_Body_Naked0.ASC" DONT_USE_MESH)
+	aniEnum
+	{
+		aniDisable("t_Run_2_1h")
+		aniDisable("t_Run_2_2h")
+		aniDisable("t_Move_2_1hMove")
+		aniDisable("t_Run_2_Bow")
+		aniDisable("t_Move_2_BowMove")
+		aniDisable("t_Stand_2_Jump")
+		aniDisable("t_JumpB")
+		aniDisable("t_RunStrafeL")
+		aniDisable("t_RunStrafeR")
+		aniDisable("T_DIALOGGESTURE_01")
+		aniDisable("t_DIALOGGESTURE_02")
+		aniDisable("t_DIALOGGESTURE_03")
+		aniDisable("t_DIALOGGESTURE_04")
+		aniDisable("t_DIALOGGESTURE_05")
+		aniDisable("t_DIALOGGESTURE_06")
+		aniDisable("t_DIALOGGESTURE_07")
+		aniDisable("t_DIALOGGESTURE_08")
+		aniDisable("t_DIALOGGESTURE_09")
+		aniDisable("t_DIALOGGESTURE_10")
+		aniDisable("t_DIALOGGESTURE_11")
+		aniDisable("t_DIALOGGESTURE_12")
+		aniDisable("t_DIALOGGESTURE_13")
+		aniDisable("t_DIALOGGESTURE_14")
+		aniDisable("t_DIALOGGESTURE_15")
+		aniDisable("t_DIALOGGESTURE_16")
+		aniDisable("t_DIALOGGESTURE_17")
+		aniDisable("t_DIALOGGESTURE_18")
+		aniDisable("t_DIALOGGESTURE_19")
+		aniDisable("t_DIALOGGESTURE_20")
+		aniDisable("t_DIALOGGESTURE_21")
+	}
+}
+
