@@ -1,0 +1,98 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 25.3.2025 20:46:57
+user Baioretto
+END
+objects 6        
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9629.37695 5554.625 36921.5938 9798.02539 5740.34326 37090.2422 
+			trafoOSToWSRot=raw:b44597be000000004892743f000000000000803f00000000489274bf00000000b44597be
+			trafoOSToWSPos=vec3:9713.70117 5554.625 37005.918
+			vobName=string:
+			visual=string:OW_LOB_BUSH_V5.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:3
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9566.31738 5554.66162 36782.5 9755.6748 5740.37354 36971.8516 
+			trafoOSToWSRot=raw:c70e49bf00001737e0761ebf000092b606fd7f3f00801cb7c2771e3f0100a236180d49bf
+			trafoOSToWSPos=vec3:9660.99512 5554.6626 36877.1758
+			vobName=string:
+			visual=string:OW_LOB_BUSH_V5.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 12289 4]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9576.78711 5530.23779 36820.5469 9751.42383 5756.85645 37039.4922 
+			trafoOSToWSRot=raw:9e59adbef8a03b3cdadc703fda968c3e8225753fbb7eb23d406566bf7e62933e5a9ca7be
+			trafoOSToWSPos=vec3:9663.04199 5554.625 36903.2891
+			vobName=string:
+			visual=string:OW_LOB_BUSH_V5.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9638.67871 5562.62549 36875.4414 9807.32715 5748.34375 37044.0898 
+			trafoOSToWSRot=raw:b44597be000000004892743f000000000000803f00000000489274bf00000000b44597be
+			trafoOSToWSPos=vec3:9723.00293 5562.62549 36959.7656
+			vobName=string:
+			visual=string:OW_LOB_BUSH_V5.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs4=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

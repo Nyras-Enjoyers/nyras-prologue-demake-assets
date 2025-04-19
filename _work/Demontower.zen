@@ -1,0 +1,45 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 16.3.2025 20:7:40
+user Baioretto
+END
+objects 4        
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVobLevelCompo:zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14480.9561 54 -35760.7695 -9712.05957 7757.39258 -32574.5664 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:0 0 0
+			vobName=string:LEVEL-VOB
+			visual=string:DEMONTOWER.3DS
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMesh 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:0
+	[]
+	[WayNet % 0 0]
+		[% zCWayNet 0 3]
+			waynetVersion=int:1
+			numWaypoints=int:0
+			numWays=int:0
+		[]
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

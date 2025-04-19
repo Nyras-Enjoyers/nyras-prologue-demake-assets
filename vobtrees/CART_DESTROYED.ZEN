@@ -1,0 +1,484 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 27.3.2025 18:31:10
+user Baioretto
+END
+objects 32       
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1705.85986 2934.38281 22366.9766 1931.44873 3174.66479 22694.9922 
+			trafoOSToWSRot=raw:fae979bf0abf1fbee21b1a3e3ddf45be95df703f56668ebe3625c9bd66e799bec7dc72bf
+			trafoOSToWSPos=vec3:1819.44189 3008.2749 22626.3027
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_E.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:11
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1687.01685 2941.43164 22564.7148 1795.02002 3036.26758 22649.3691 
+			trafoOSToWSRot=raw:5bf8bcbe9b7e633fad828bbe3639d73e259bd73edfe24d3f484e543fabc73a3e746a07bf
+			trafoOSToWSPos=vec3:1701.93054 2969.3728 22597.5684
+			vobName=string:SACK_01
+			visual=string:OC_SACK_V03.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1718.6615 2983.68823 22596.0313 1821.66907 3065.96143 22687.6484 
+			trafoOSToWSRot=raw:f2b22e3efe416e3fe403a6be9780fc3e6255513ea897583f457b5a3ff28e9bbe9d28d9be
+			trafoOSToWSPos=vec3:1728.33508 3014.90649 22654.0371
+			vobName=string:SACK_01
+			visual=string:OC_SACK_V03.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVob 12289 6]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1733.54041 2996.12012 22319.2773 1918.89771 3095.59668 22454.2148 
+			trafoOSToWSRot=raw:5072eebba7a0dd3e63c466bfe1fb7f3faa89a4bb9ab82bbc7b8714bc5dc566bfe697ddbe
+			trafoOSToWSPos=vec3:1778.19739 3123.27832 22394.8887
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_D.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs4=int:0
+		[% zCVob 12289 8]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1705.3573 2956.00562 22552.2559 1905.40369 3095.7688 22758.3555 
+			trafoOSToWSRot=raw:c1b609bff4f109bf80f4253fc81814bfe89a4b3f3860393e84f61cbf04278ebef9543dbf
+			trafoOSToWSPos=vec3:1804.20435 2965.31616 22586.7793
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_D.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs5=int:0
+		[% zCVob 12289 9]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1809.42456 3026.53345 22389.2031 1903.62256 3118.13647 22493.293 
+			trafoOSToWSRot=raw:b34df1bdf2037cbf9345053ec22fa13d68450fbeb5ac7cbfb8687d3f162ed9bd1273c03d
+			trafoOSToWSPos=vec3:1857.92639 3072.10303 22442.7813
+			vobName=string:CRATE_DESROYED_01
+			visual=string:OW_CRATE_NM_01_DESTROYED.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs6=int:0
+		[% zCVob 12289 11]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1860.01978 3069.24341 22523.4238 1860.01978 3069.24341 22523.4238 
+			trafoOSToWSRot=raw:d682703fdc5b4d3da981adbec40e1fbef8ac713f58f894be18549c3e5de7a63ee70b653f
+			trafoOSToWSPos=vec3:1860.01978 3069.24341 22523.4238
+			vobName=string:ORE_ROOT
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs7=int:4
+		[% oCItem:zCVob 0 12]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1814.83374 3032.52588 22534.7637 1831.63599 3046.21973 22552.0176 
+			trafoOSToWSRot=raw:1083703fc05b4d3dd381adbeae0e1fbe5bac713f4df894be42549c3e2ae7a63e1f0c653f
+			trafoOSToWSPos=vec3:1823.23486 3039.3728 22543.3906
+			vobName=string:ITMINUGGET
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITMINUGGET
+		[]
+		childs8=int:0
+		[% oCItem:zCVob 0 13]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1866.61938 3035.79272 22489.9551 1883.42163 3049.48657 22507.209 
+			trafoOSToWSRot=raw:1683703f075c4d3dce81adbede0e1fbeeeac713f73f894be43549c3e5be7a63e170c653f
+			trafoOSToWSPos=vec3:1875.02051 3042.63965 22498.582
+			vobName=string:ITMINUGGET
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITMINUGGET
+		[]
+		childs9=int:0
+		[% oCItem:zCVob 0 14]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1855.24377 3036.39063 22499.9551 1873.07556 3049.29004 22516.8887 
+			trafoOSToWSRot=raw:c4ab693fac34223eadc5c0be6a9a62bebc6d773f0df504bea2c9af3e1eac4e3ed4d26a3f
+			trafoOSToWSPos=vec3:1864.15967 3042.84033 22508.4219
+			vobName=string:ITMINUGGET
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITMINUGGET
+		[]
+		childs10=int:0
+		[% oCItem:zCVob 0 15]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1842.85596 3042.55493 22543.0527 1860.40894 3056.46265 22562.4863 
+			trafoOSToWSRot=raw:edaa153fc05b4d3d7d4b4fbf07b295be5bac713f464e1cbe70bc413f2ae7a63ea40b113f
+			trafoOSToWSPos=vec3:1851.63245 3049.50879 22552.7695
+			vobName=string:ITMINUGGET
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITMINUGGET
+		[]
+		childs11=int:0
+		[% zCVob 12289 16]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1760.20801 3023.6272 22384.4121 1832.36853 3116.32861 22457.625 
+			trafoOSToWSRot=raw:719165bf00dd1cbd95bee13ea0e3a9bd1a427e3fa8d9a8bd1594debe9053e2bd02d164bf
+			trafoOSToWSPos=vec3:1799.43555 3025.76343 22426.6504
+			vobName=string:SACK_01
+			visual=string:OC_SACK_V03.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs12=int:1
+		[% zCVob 12289 17]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1751.59631 3009.45874 22429.9844 1854.23999 3060.35474 22528.6895 
+			trafoOSToWSRot=raw:168726bf84ea413fb93869bd0844d8bb38158e3d9d7c7f3f7b8b423f8c3e263fef6424bd
+			trafoOSToWSPos=vec3:1770.13806 3031.81958 22449.123
+			vobName=string:SACK_01
+			visual=string:OC_SACK_V03.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs13=int:0
+		[% zCVob 12289 18]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1819.47009 3039.06592 22635.7715 1929.79919 3145.09033 22756.1738 
+			trafoOSToWSRot=raw:9c317abfd6aa0abe87c226be6c28c4bc0aa9553f6be10cbfa57c573ea9af08bfc7a451bf
+			trafoOSToWSPos=vec3:1873.44568 3090.47925 22696.6055
+			vobName=string:CRATE_DESROYED_01
+			visual=string:OW_CRATE_NM_01_DESTROYED.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs14=int:2
+		[% zCVob 12289 19]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1819.63184 3095.67603 22723.5371 1897.82776 3177.95801 22808.8516 
+			trafoOSToWSRot=raw:8d37443ff09d41be34231d3f4c7192bd2bb16c3f538bbf3ee86523bf3d49a9be30f7313f
+			trafoOSToWSPos=vec3:1853.78955 3130.17627 22782.459
+			vobName=string:SMALL_BARREL_01
+			visual=string:OW_SMALL_BARREL_NM_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs15=int:1
+		[% zCVob 12289 21]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1761.31934 3085.21387 22750.8066 1844.58582 3145.59497 22837.959 
+			trafoOSToWSRot=raw:5f18573faff1fc3ec1d464be50b78a3e44edd0bcfb4b763fab7ef03eba785ebf23ff1ebe
+			trafoOSToWSPos=vec3:1784.92395 3117.5354 22796.25
+			vobName=string:SMALL_BARREL_01
+			visual=string:OW_SMALL_BARREL_NM_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs16=int:0
+		[% zCVob 12289 22]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1853.4823 3022.94141 22567.0449 1992.3667 3159.09766 22677.9512 
+			trafoOSToWSRot=raw:e85951bf8c3bed3db351103f3d35ddbe7a04063fa0fa3bbfe9aac2bebb1458bf5a95c1be
+			trafoOSToWSPos=vec3:2074.03467 3016.04028 22620.6738
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_B.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 23]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs17=int:0
+		[% zCVob 12289 24]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1602.78687 2987.30225 22562.7012 1742.14355 3065.10669 22705.2734 
+			trafoOSToWSRot=raw:16c950bfdd5507be3c37103f884a733dda04733ff50d9e3e365913bfd308923e1f3144bf
+			trafoOSToWSPos=vec3:1828.33118 3045.15088 22572.2891
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_B.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 23]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs18=int:3
+		[% zCVob 12289 25]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1664.26465 3000.12793 22639.4258 1741.80396 3051.76147 22723.123 
+			trafoOSToWSRot=raw:51f64d3f3506183f8080b6b92027f2bcb66f263d75ab7f3fe0d5173f9eb34dbfd6c44d3d
+			trafoOSToWSPos=vec3:1685.72974 3031.70239 22681.9492
+			vobName=string:SMALL_BARREL_01
+			visual=string:OW_SMALL_BARREL_NM_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs19=int:0
+		[% oCItem:zCVob 0 26]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1653.66406 3016.5752 22588.0723 1708.78577 3033.79126 22617.4551 
+			trafoOSToWSRot=raw:34526e3f238e3a3d847ab9be70c7d3bdb9037c3fb75d11bedf48b33e81ad2d3e52d36b3f
+			trafoOSToWSPos=vec3:1697.96667 3023.59692 22607.4746
+			vobName=string:ITLSTORCH
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITLSTORCH
+		[]
+		childs20=int:0
+		[% oCItem:zCVob 0 27]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1641.40088 3013.29102 22635.1953 1739.26868 3021.77368 22649.6172 
+			trafoOSToWSRot=raw:df327f3fbc41bdbcf4259a3d9861b63c1ae97f3f640c443c98ad9abd082528bcf43f7f3f
+			trafoOSToWSPos=vec3:1714.0553 3016.96118 22640.627
+			vobName=string:ITAMARROW
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:1
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			itemInstance=string:ITAMARROW
+		[]
+		childs21=int:0
+		[% zCVob 12289 28]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1733.49182 2924.64063 22459.0859 1836.26208 3046.09985 22602.7773 
+			trafoOSToWSRot=raw:dc087b3fa16644bedc91253db62edabda361b2be3a686e3fe77a28be14e26abf2e62b9be
+			trafoOSToWSPos=vec3:1784.8501 2985.27515 22530.4297
+			vobName=string:
+			visual=string:OC_BARREL_V1.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 29]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs22=int:0
+		[% zCVob 12289 30]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:1739.60925 2911.15942 22374.9043 1948.05811 3057.23779 22498.8105 
+			trafoOSToWSRot=raw:34d679bfdace5dbeecfecf3c33385fbee5f0783ff3c3a9bd74a3dcbb5d05b1bd0a097fbf
+			trafoOSToWSPos=vec3:1849.73584 2955.2251 22615.1426
+			vobName=string:CART_PART_01
+			visual=string:OW_CART_NM_01_DESTROYED_F.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 31]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs23=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

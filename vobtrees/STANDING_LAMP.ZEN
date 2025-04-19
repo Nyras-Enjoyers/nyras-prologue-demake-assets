@@ -1,0 +1,133 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 18.3.2025 21:48:15
+user do95l
+END
+objects 10       
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:754.1604 2791.50293 22734.6563 941.849426 3600.85327 23050.2383 
+			trafoOSToWSRot=raw:5f73663f00000000f8f4debe000000000000803f00000000f8f4de3e000000005f73663f
+			trafoOSToWSPos=vec3:796.934326 2794.40234 22998.0195
+			vobName=string:LAMP_01
+			visual=string:OC_LOB_GALGEN.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:4
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:819.545288 3303.7356 22717.8301 977.911255 3582.58301 22876.9844 
+			trafoOSToWSRot=raw:60fb7d3f00000000945600be000000000000803f000000009456003e0000000060fb7d3f
+			trafoOSToWSPos=vec3:897.619568 3334.7356 22798.5469
+			vobName=string:
+			visual=string:FIRE_SMOKE.pfx
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCParticleFX 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:863.947266 3291.93384 22741.3086 955.882446 3417.33496 22851.2188 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:909.620239 3328.56812 22795.7305
+			vobName=string:
+			visual=string:FIRE_MEDIUM.pfx
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCParticleFX 0 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVobLight:zCVob 46080 7]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-1097.04724 1352.30811 20797.1738 2902.9585 5352.29688 24797.1719 
+			trafoOSToWSRot=raw:aa4226bf00000000b2a9423f000000000000803f00000000bba942bf000000009b4226bf
+			trafoOSToWSPos=vec3:902.956604 3352.30811 22797.1699
+			vobName=string:LIGHT
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:LIGHT
+			lightType=enum:0
+			range=float:2000
+			color=color:223 173 117 255
+			spotConeAngle=float:0
+			lightStatic=bool:0
+			lightQuality=enum:2
+			lensflareFX=string:TORCHFX01
+			turnedOn=bool:1
+			rangeAniScale=string:
+			rangeAniFPS=float:0
+			rangeAniSmooth=bool:1
+			colorAniList=string:(211 147 107) (223 173 117) (211 147 107) (223 173 117) (225 197 100) (223 173 117) (227 209 106) (223 173 117) (211 147 107) (223 173 117) (225 197 100) (227 209 106) (223 173 117) (211 147 107) (225 197 100) (223 173 117) (225 197 100) (211 147 107) (223 173 117) (227 209 106) (225 197 100) (211 147 107) (225 197 100) (223 173 117) (225 197 100) (227 209 106) (223 173 117) (211 147 107) (223 173 117) (211 147 107) (225 197 100) (227 209 106) (223 173 117) 
+			colorAniFPS=float:11.0000172
+			colorAniSmooth=bool:0
+		[]
+		childs4=int:0
+		[% zCVob 12289 8]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:793.251282 3295.13428 22662.0176 1015.78107 3346.49805 22931.2988 
+			trafoOSToWSRot=raw:92ed5c3f00000000f44f013f000000000000803f00000000f64f01bf0000000092ed5c3f
+			trafoOSToWSPos=vec3:904.584717 3312.55908 22796.7754
+			vobName=string:ORC_FIREPLACE
+			visual=string:ORC_FIREPLACE_V4.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 9]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs5=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

@@ -1,0 +1,49 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 16.4.2025 18:31:7
+user Baioretto
+END
+objects 2        
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVobSound:zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-4815.23389 -11031.6113 -7852.77539 7984.76611 1768.38818 4947.22461 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:1584.76599 -4631.61182 -1452.77551
+			vobName=string:DEEPAMBIENT
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			sndVolume=float:24
+			sndMode=enum:0
+			sndRandDelay=float:5
+			sndRandDelayVar=float:2
+			sndStartOn=bool:1
+			sndAmbient3D=bool:0
+			sndObstruction=bool:0
+			sndConeAngle=float:0
+			sndVolType=enum:0
+			sndRadius=float:6400
+			sndName=string:DEEPAMBIENT
+		[]
+		childs1=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

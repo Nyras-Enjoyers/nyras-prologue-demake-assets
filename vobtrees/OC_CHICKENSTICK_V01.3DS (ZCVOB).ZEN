@@ -1,0 +1,117 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 25.3.2025 20:44:50
+user Baioretto
+END
+objects 8        
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7997.46094 5499.95557 35405.4883 8394.74414 5758.18604 35487.8398 
+			trafoOSToWSRot=raw:f1cc7fbf00000000e8a521bd000000000000803f00000000e8a5213d00000000f1cc7fbf
+			trafoOSToWSPos=vec3:8203.28223 5629.0708 35443.7188
+			vobName=string:
+			visual=string:OC_CHICKENSTICK_V01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:3
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8279.4375 5511.26318 35411.7422 8346.60352 5763.28174 35470.4141 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:8314.63281 5637.27246 35441.0781
+			vobName=string:
+			visual=string:OC_CHICKENSTICK_CHICKEN_V01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8143.43994 5515.0249 35403.5898 8228.66113 5767.04346 35484.5039 
+			trafoOSToWSRot=raw:1dde69bf00000000be3fd03e000000000000803f00000000be3fd0be000000001dde69bf
+			trafoOSToWSPos=vec3:8184.57764 5641.03418 35443.3906
+			vobName=string:
+			visual=string:OC_CHICKENSTICK_CHICKEN_V01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% oCMobFire:oCMobInter:oCMOB:zCVob 18433 6]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7973.68994 5428.41064 35560.7969 8030.4707 5645.88623 35614.6133 
+			trafoOSToWSRot=raw:6f096fbf00000000f857b7be000000000000803f00000000fe57b73e0000000067096fbf
+			trafoOSToWSPos=vec3:8001.92871 5428.37598 35587.8672
+			vobName=string:OW_FIREPLACE_HIGH2_04
+			visual=string:FIREPLACE_HIGH2.ASC
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCModel 0 7]
+			[]
+			[ai % 0 0]
+			[]
+			focusName=string:Torch
+			hitpoints=int:10
+			damage=int:0
+			moveable=bool:0
+			takeable=bool:0
+			focusOverride=bool:0
+			soundMaterial=enum:0
+			visualDestroyed=string:
+			owner=string:
+			ownerGuild=string:
+			isDestroyed=bool:0
+			stateNum=int:1
+			triggerTarget=string:
+			useWithItem=string:ITLSTORCHBURNING
+			conditionFunc=string:
+			onStateFunc=string:
+			rewind=bool:0
+			fireSlot=string:BIP01 FIRE
+			fireVobtreeName=string:FIRETREE_MEDIUM.ZEN
+		[]
+		childs4=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

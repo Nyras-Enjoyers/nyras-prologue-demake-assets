@@ -1,0 +1,158 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 25.3.2025 20:42:55
+user Baioretto
+END
+objects 11       
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8942.4834 5528.61279 38128.7422 9038.69141 5620.54639 38262.7422 
+			trafoOSToWSRot=raw:c20b7b3f706e45beeb3f0bbd00000000c6d0313e591c7cbf247a483e623b773fda5f2e3e
+			trafoOSToWSPos=vec3:8990.59961 5574.66602 38196.2461
+			vobName=string:
+			visual=string:OC_BARREL_V1_DESTROYED.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:3
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8828.43945 5500.35303 38086.4453 9049.18555 5718.64648 38277.043 
+			trafoOSToWSRot=raw:2caab0bef87f94be8a84643f000040b36c78733f78379e3e174770bfa85eda3da404a8be
+			trafoOSToWSPos=vec3:8965.74512 5521.18555 38171.8438
+			vobName=string:
+			visual=string:OW_LOB_BUSH_V5.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8901.61621 5470.23682 38066.8555 9046.30957 5598.55469 38168.4609 
+			trafoOSToWSRot=raw:1b91003fc4c4573f480246be60255dbf932af53e543020becccc20bde27f7b3e82f4773f
+			trafoOSToWSPos=vec3:8974.43945 5534.53906 38117.7773
+			vobName=string:
+			visual=string:OC_BARREL_V1_DESTROYED.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVob 12289 6]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8966.81152 5489.84229 37893.2852 9210.85449 5637.44238 38137.6758 
+			trafoOSToWSRot=raw:453a423f7d5af4b3a8c426bf000000b3feff7f3f00002034a8c4263f4e97bd33453a423f
+			trafoOSToWSPos=vec3:9083.93652 5495.45166 38027.9805
+			vobName=string:
+			visual=string:MIN_MOB_STONE_V2_20.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs4=int:3
+		[% zCVob 12289 8]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:8962.25 5460.06982 37938.5117 9240.07129 5688.73535 38222.2461 
+			trafoOSToWSRot=raw:443a423faeddf7bee52ddfbe86faa7b3284c2b3fbc3e3ebfaac4263fdc56103faef6013f
+			trafoOSToWSPos=vec3:9132.00781 5519.35547 38051.25
+			vobName=string:
+			visual=string:MIN_MOB_STONE_V2_20.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs5=int:0
+		[% zCVob 12289 9]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9018.23535 5561.74902 37920.793 9262.27832 5709.34912 38165.1836 
+			trafoOSToWSRot=raw:443a423f914569b4a8c426bf86faa7b30200803f08d17634aac4263fb2e0fb33483a423f
+			trafoOSToWSPos=vec3:9135.36035 5567.3584 38055.4883
+			vobName=string:
+			visual=string:MIN_MOB_STONE_V2_20.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs6=int:0
+		[% zCVob 12289 10]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:9052.6543 5505.73682 37868.3281 9319.16406 5727.54932 38138.8828 
+			trafoOSToWSRot=raw:443a423feae315bf6a3692be86faa7b33272e03e5e1766bfaac4263f17922e3f9449aa3e
+			trafoOSToWSPos=vec3:9225.57617 5575.35889 37964.207
+			vobName=string:
+			visual=string:MIN_MOB_STONE_V2_20.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual § 0 7]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs7=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

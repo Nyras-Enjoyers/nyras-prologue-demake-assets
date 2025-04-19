@@ -1,0 +1,291 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 28.3.2025 23:30:44
+user do95l
+END
+objects 27       
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVobAnimate:zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11503.4805 -808.037476 11376.6904 -11423.165 -601.722473 11444.2021 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11468.8633 -706.523499 11428.1992
+			vobName=string:WATERPLANTS
+			visual=string:WATERPLANT_RED_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 2]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs1=int:12
+		[% zCVobAnimate:zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11418.8789 -831.435181 11326.8213 -11282.8174 -608.965088 11422.7451 
+			trafoOSToWSRot=raw:8e15bdbdf5f6a03e0ade713ffbe9983ddcc7723f35d69dbe49307ebfb35d2c3d1d65e3bd
+			trafoOSToWSPos=vec3:-11334.0801 -727.645081 11378.2441
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 4]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs2=int:0
+		[% zCVobAnimate:zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11530.1563 -831.587158 11494.3457 -11411.2598 -615.026184 11595.7568 
+			trafoOSToWSRot=raw:d569cbbe4f25febd62c5683fefa359bdec047e3fdbcbe53dd9886abf93c574bb3c37cdbe
+			trafoOSToWSPos=vec3:-11452.1611 -722.650818 11543.0176
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 6]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs3=int:0
+		[% zCVobAnimate:zCVob 12289 7]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11451.1875 -816.857117 11486.3721 -11353.667 -602.374451 11593.293 
+			trafoOSToWSRot=raw:fc0e72be52cd813df836783f626a43bde3f37e3fb6259dbdc17178bf21e283bdfaf86dbe
+			trafoOSToWSPos=vec3:-11384.0088 -712.35022 11541.1895
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 8]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs4=int:0
+		[% zCVobAnimate:zCVob 12289 9]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11419.8477 -822.163513 11401.8213 -11330.2998 -607.680847 11499.166 
+			trafoOSToWSRot=raw:12f8c3bd0e45933dc0287e3f626a43bde3f37e3fb6259dbd34887ebf831560bd6b24bcbd
+			trafoOSToWSPos=vec3:-11357.0361 -717.656616 11454.4609
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 10]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs5=int:0
+		[% zCVobAnimate:zCVob 12289 11]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11492.3428 -811.030396 11227.3662 -11383.8652 -596.547729 11348.3447 
+			trafoOSToWSRot=raw:0e610fbf4849173daede533f626a43bde3f37e3fb6259dbd8aba53bfdce0a8bd7a570ebf
+			trafoOSToWSPos=vec3:-11420.3691 -706.523499 11282.7021
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 12]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs6=int:0
+		[% zCVobAnimate:zCVob 12289 13]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11506.9326 -836.416077 11312.4131 -11370.9082 -616.56958 11422.7227 
+			trafoOSToWSRot=raw:220b6a3fe9fa3dbef56eb83efecb533ee2677a3fcf49adbcd264b2bea931c03da4c06e3f
+			trafoOSToWSPos=vec3:-11437.2861 -729.621948 11385.9014
+			vobName=string:WATERPLANT_RED
+			visual=string:WATERPLANT_RED_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 14]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs7=int:0
+		[% zCVobAnimate:zCVob 12289 15]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11468.1846 -822.038086 11370.0967 -11361.9814 -602.861084 11501.2666 
+			trafoOSToWSRot=raw:4ae9613fd4aa8e3cd6aaf03e28f5843dc4387c3f4c2f22be1887eebe055f2e3ead495e3f
+			trafoOSToWSPos=vec3:-11411.6563 -717.240356 11453.3984
+			vobName=string:WATERPLANT_RED
+			visual=string:WATERPLANT_RED_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 16]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs8=int:0
+		[% zCVobAnimate:zCVob 12289 17]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11522.3213 -822.530579 11409.6104 -11371.1191 -596.532654 11519.7529 
+			trafoOSToWSRot=raw:c0de173f1cdf803e0dc1433f5c7433bea0ab773f22e03abed12449bf6ee1d2bc6d381e3f
+			trafoOSToWSPos=vec3:-11436.8457 -713.390564 11480.0498
+			vobName=string:WATERPLANT_RED
+			visual=string:WATERPLANT_RED_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 18]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs9=int:0
+		[% zCVobAnimate:zCVob 12289 19]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11579.2285 -808.037537 11400.4346 -11478.8604 -601.7229 11504.5645 
+			trafoOSToWSRot=raw:22750b3f0000000019ae563f000000000000803f0000000019ae56bf0000000022750b3f
+			trafoOSToWSPos=vec3:-11517.1748 -706.523499 11466.8164
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 20]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs10=int:0
+		[% zCVobAnimate:zCVob 12289 21]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11571.0234 -811.030396 11285.4297 -11481.4756 -596.547729 11382.7744 
+			trafoOSToWSRot=raw:12f8c3bd0e45933dc0287e3f626a43bde3f37e3fb6259dbd34887ebf831560bd6b24bcbd
+			trafoOSToWSPos=vec3:-11508.2119 -706.523499 11338.0693
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 22]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs11=int:0
+		[% zCVobAnimate:zCVob 12289 23]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11664.2852 -819.745667 11347.4707 -11528.8223 -602.266235 11429.2617 
+			trafoOSToWSRot=raw:1db39e3c3ae0aebe9a8d703f1220d33bb29a703f43d8ae3e3af27fbf682013bafc2ea73c
+			trafoOSToWSPos=vec3:-11579.418 -706.523499 11394.2686
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 24]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs12=int:0
+		[% zCVobAnimate:zCVob 12289 25]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11642.166 -808.037537 11236.3184 -11537.3711 -601.7229 11338.6719 
+			trafoOSToWSRot=raw:24c84b3f00000000b5f21a3f000000000000803f00000000b5f21abf0000000024c84b3f
+			trafoOSToWSPos=vec3:-11583.4336 -706.523499 11304.9805
+			vobName=string:WATERPLANT_GREEN
+			visual=string:WATERPLANT_1.MMS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCMorphMesh 0 26]
+			[]
+			[ai % 0 0]
+			[]
+			startOn=bool:1
+		[]
+		childs13=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]

@@ -1,0 +1,827 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 26.3.2025 19:23:27
+user Baioretto
+END
+objects 49       
+END
+
+[% oCWorld:zCWorld 64513 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 12289 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7903.86328 5416.14063 35987.6914 7960.07715 6096.14063 36043.9102 
+			trafoOSToWSRot=raw:3ea11fbf00000000012348bf000000000000803f000000000123483f000000003ea11fbf
+			trafoOSToWSPos=vec3:7931.97021 5756.14063 36015.8008
+			vobName=string:B
+			visual=string:BEAM_MS.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:6
+		[% zCVob 12289 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7743.48828 5495.11865 36143.375 7760.06836 5925.80127 36159.957 
+			trafoOSToWSRot=raw:581c313f0000000024d8383f000000000000803f0000000020d838bf00000000621c313f
+			trafoOSToWSPos=vec3:7751.77686 5710.45898 36151.6641
+			vobName=string:FLAGMAST_01
+			visual=string:ADDON_MISC_FLAGMAST_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:2
+		[% zCVob 12289 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7716.19092 5548.14697 36109.9414 7800.16602 5928.14697 36188.4297 
+			trafoOSToWSRot=raw:67173d3f0000000023912c3f000000000000803f000000001f912cbf0000000070173d3f
+			trafoOSToWSPos=vec3:7761.90283 5548.14697 36154.0078
+			vobName=string:FLAG_01
+			visual=string:OC_LOB_FLAG_SMALL.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVob 12289 7]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7711.86816 5548.14697 36120.9609 7797.3833 5928.14697 36197.6406 
+			trafoOSToWSRot=raw:06d641bf000000005a3827bf000000000000803f000000005538273f0000000010d641bf
+			trafoOSToWSPos=vec3:7751.0376 5548.14697 36154.375
+			vobName=string:FLAG_01
+			visual=string:OC_LOB_FLAG_SMALL.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs4=int:0
+		[% zCVob 12289 8]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7889.37793 5756.33691 35979.4141 7922.30713 5822.40967 36011.4531 
+			trafoOSToWSRot=raw:709421bf00000000ba9146bf000000000000803f00000000ba91463f00000000709421bf
+			trafoOSToWSPos=vec3:7905.90576 5756.33008 35995.3555
+			vobName=string:
+			visual=string:FIREPLACE_MIDDLE.ASC
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			[visual zCModel 0 9]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs5=int:3
+		[% zCVobLensFlare:zCVob 64704 10]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7895.28662 5822.48877 35985.9258 7897.91943 5824.48877 35988.5586 
+			trafoOSToWSRot=raw:cbf83e3f000000007d882a3f000000000000803f000000007d882abf00000000cbf83e3f
+			trafoOSToWSPos=vec3:7896.60205 5823.48877 35987.2422
+			vobName=string:LENSFLARE
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lensflareFX=string:TORCHFX01
+		[]
+		childs6=int:0
+		[% zCVob 12289 11]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7849.96143 5771.15186 35938.2969 7943.15967 5915.1665 36034.6211 
+			trafoOSToWSRot=raw:4c91da3d000000007a31813f000000000000803f000000007a3181bf000000004c91da3d
+			trafoOSToWSPos=vec3:7896.63379 5817.48877 35988.457
+			vobName=string:
+			visual=string:TORCH.pfx
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCParticleFX 0 12]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs7=int:0
+		[% zCVobLight:zCVob 46080 13]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7190.24902 5139.97607 35281.4688 8590.18555 6539.97607 36681.4688 
+			trafoOSToWSRot=raw:014d68bf00000000994bd73e000000000000803f00000000994bd7be00000000014d68bf
+			trafoOSToWSPos=vec3:7890.24902 5839.97607 35981.4688
+			vobName=string:FIREPLACE_LIGHT
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:700
+			color=color:211 147 107 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs8=int:0
+		[% zCVob 12289 14]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7798.71826 5459.40918 36125.5938 7821.0874 5850.16699 36147.4453 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7810.33545 5459.75781 36135.8945
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs9=int:7
+		[% zCVob 12289 16]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7827.01367 5460.10352 36097.6641 7849.38281 5850.86133 36119.5156 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7838.63086 5460.45215 36107.9648
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs10=int:0
+		[% zCVob 12289 17]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7836.56152 5460.10352 36084.5156 7862.26074 5850.86133 36109.6211 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7849.96826 5460.45215 36096.2656
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs11=int:0
+		[% zCVob 12289 19]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7849.45752 5460.10352 36072.6211 7871.82666 5850.86133 36094.4727 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7861.07471 5460.45215 36082.9219
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs12=int:0
+		[% zCVob 12289 20]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7892.24951 5459.40918 36024.0352 7917.94873 5850.16699 36049.1406 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7905.65625 5459.75781 36035.7852
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs13=int:0
+		[% zCVob 12289 21]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7877.9458 5459.40918 36042.5586 7900.31494 5850.16699 36064.4102 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7889.56299 5459.75781 36052.8594
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs14=int:0
+		[% zCVob 12289 22]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7860.75732 5459.40918 36056.9609 7886.45654 5850.16699 36082.0664 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7874.16406 5459.75781 36068.7109
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs15=int:0
+		[% zCVob 12289 23]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7810.21484 5460.10352 36108.625 7835.91406 5850.86133 36133.7305 
+			trafoOSToWSRot=raw:26e2673e00000000e759793f000000000000803f00000000e75979bf0000000026e2673e
+			trafoOSToWSPos=vec3:7823.62158 5460.45215 36120.375
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs16=int:0
+		[% zCVob 12289 24]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7695.46387 5459.40918 36251.3359 7719.61279 5850.16699 36274.8047 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7708.01807 5459.75781 36262.2188
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs17=int:7
+		[% zCVob 12289 25]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7722.68994 5460.10352 36222.207 7743.70996 5850.86133 36242.6328 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7733.57227 5460.45215 36231.7578
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs18=int:0
+		[% zCVob 12289 26]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7731.20947 5460.10352 36208.168 7755.3584 5850.86133 36231.6367 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7743.76367 5460.45215 36219.0508
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs19=int:0
+		[% zCVob 12289 27]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7741.01709 5460.10352 36193.8438 7765.16602 5850.86133 36217.3125 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7753.57129 5460.45215 36204.7266
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs20=int:0
+		[% zCVob 12289 28]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7780.98633 5459.40918 36142.7344 7805.13525 5850.16699 36166.2031 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7793.54053 5459.75781 36153.6172
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs21=int:0
+		[% zCVob 12289 29]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7766.56299 5459.40918 36161.2422 7790.71191 5850.16699 36184.7109 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7779.11719 5459.75781 36172.125
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs22=int:0
+		[% zCVob 12289 30]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7754.38916 5459.40918 36179.8008 7775.40918 5850.16699 36200.2266 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7765.27148 5459.75781 36189.3516
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs23=int:0
+		[% zCVob 12289 31]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7707.23779 5460.10352 36234.6406 7731.38672 5850.86133 36258.1094 
+			trafoOSToWSRot=raw:506a093e00000000aaaf7d3f000000000000803f00000000aaaf7dbf00000000506a093e
+			trafoOSToWSPos=vec3:7719.79199 5460.45215 36245.5234
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs24=int:0
+		[% zCVob 12289 32]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7590.24268 5459.40918 36374.1055 7611.64307 5850.16699 36394.9297 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7601.33154 5459.75781 36383.8633
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs25=int:7
+		[% zCVob 12289 33]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7600.72705 5460.10352 36356.3438 7625.31299 5850.86133 36380.2695 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7613.521 5460.45215 36367.4688
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs26=int:0
+		[% zCVob 12289 34]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7647.604 5459.40918 36301.332 7672.18994 5850.16699 36325.2578 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7660.39795 5459.75781 36312.457
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs27=int:0
+		[% zCVob 12289 35]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7661.87842 5459.40918 36284.457 7686.46436 5850.16699 36308.3828 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7674.67236 5459.75781 36295.582
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs28=int:0
+		[% zCVob 12289 36]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7678.4668 5459.40918 36267.6875 7699.86719 5850.16699 36288.5117 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7689.55566 5459.75781 36277.4453
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs29=int:0
+		[% zCVob 12289 37]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7637.22656 5460.10352 36317.7734 7658.62695 5850.86133 36338.5977 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7648.31543 5460.45215 36327.5313
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs30=int:0
+		[% zCVob 12289 38]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7625.35693 5460.10352 36330.4805 7649.94287 5850.86133 36354.4063 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7638.15088 5460.45215 36341.6055
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs31=int:0
+		[% zCVob 12289 39]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7616.5542 5460.10352 36344.2969 7637.95459 5850.86133 36365.1211 
+			trafoOSToWSRot=raw:56df223e0000000014be7c3f000000000000803f0000000014be7cbf0000000056df223e
+			trafoOSToWSPos=vec3:7627.64307 5460.45215 36354.0547
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs32=int:0
+		[% zCVob 12289 40]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7485.03809 5459.40918 36496.918 7504.74658 5817.56348 36516.1328 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7495.22363 5459.75781 36506.0078
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_04.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual zCProgMeshProto 0 41]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs33=int:7
+		[% zCVob 12289 42]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7509.37402 5460.10352 36465.625 7534.48145 5850.86133 36490.0977 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7522.45459 5460.45215 36477.0391
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs34=int:0
+		[% zCVob 12289 43]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7522.01025 5460.10352 36454.9063 7543.86426 5850.86133 36476.2109 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7533.34619 5460.45215 36464.9219
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs35=int:0
+		[% zCVob 12289 44]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7530.86523 5460.10352 36439.7617 7555.97266 5850.86133 36464.2344 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7543.9458 5460.45215 36451.1758
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs36=int:0
+		[% zCVob 12289 45]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7573.65186 5459.40918 36390.9883 7598.75928 5850.16699 36415.4609 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7586.73242 5459.75781 36402.4023
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs37=int:0
+		[% zCVob 12289 46]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7559.95313 5459.40918 36410.0508 7581.80713 5850.16699 36431.3555 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7571.28906 5459.75781 36420.0664
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 15]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs38=int:0
+		[% zCVob 12289 47]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7543.41357 5459.40918 36425.0703 7568.521 5850.16699 36449.543 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7556.49414 5459.75781 36436.4844
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 18]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs39=int:0
+		[% zCVob 12289 48]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:7497.73438 5460.10352 36480.9141 7517.44287 5818.25781 36500.1289 
+			trafoOSToWSRot=raw:3268423e000000006a587b3f000000000000803f000000006a587bbf000000003268423e
+			trafoOSToWSPos=vec3:7507.91992 5460.45215 36490.0039
+			vobName=string:BIG_SPIKE_01
+			visual=string:OW_BIG_SPIKE_NM_04.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			[visual § 0 41]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs40=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]
