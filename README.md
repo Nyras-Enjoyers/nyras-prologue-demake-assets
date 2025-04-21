@@ -36,10 +36,6 @@ The fonts for Czech, Spain, Romanian, Ukrainian and Chinese version from [Gothic
 
 THQ Nordic
 
-### Czech
-
-[Auronen](https://github.com/auronen)
-
 ### Italian
 
 [Piranha Legacy Italia](https://www.piranhabytesitalia.it/)
@@ -51,6 +47,10 @@ Mr. Bubbles, Cyrus_Reznik, coolblade23 and catalinstoian
 ### Ukrainian
 
 Gared ([Gothic.UA](https://discord.gg/yug8MSm3kj))
+
+### Czech
+
+AI autotranslation, manually revised by Auronen
 
 
 ## Cast
