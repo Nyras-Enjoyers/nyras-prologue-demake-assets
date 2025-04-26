@@ -50,7 +50,7 @@ Gared ([Gothic.UA](https://discord.gg/yug8MSm3kj))
 
 ### Czech
 
-Auronen with using Weblate Translation Memory
+[Gothicz.net](https://www.gothicz.net/)
 
 
 ## Cast
