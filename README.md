@@ -29,6 +29,10 @@ Scripts from Nyras Prologue Demake can be found on GitHub (SOON)
 
 The fonts for Czech, Spain, Romanian, Ukrainian and Chinese version from [Gothic 1 Localization](https://github.com/auronen/Gothic-1-localization) project.
 
+## And official assets:
+
+A candle flame from Gothic 2
+
 
 ## Translation
 
