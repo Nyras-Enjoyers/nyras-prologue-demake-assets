@@ -36,7 +36,7 @@ A candle flame from Gothic 2
 
 ## Translation
 
-### Polish, German, English, Russian, Spanish, Chinese simplified, Japanese
+### Polish, German, English, Russian, Spanish, Chinese simplified
 
 THQ Nordic
 
